@@ -2,6 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://blog.mic.ink/categories/</loc>
+    <lastmod>2020-06-09T20:19:01+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.mic.ink/post/doom-emacs-1/</loc>
+    <lastmod>2020-06-09T20:19:01+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.mic.ink/tags/emacs/</loc>
+    <lastmod>2020-06-09T20:19:01+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.mic.ink/categories/emacs/</loc>
+    <lastmod>2020-06-09T20:19:01+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.mic.ink/post/</loc>
+    <lastmod>2020-06-09T20:19:01+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.mic.ink/tags/</loc>
+    <lastmod>2020-06-09T20:19:01+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.mic.ink/</loc>
+    <lastmod>2020-06-09T20:19:01+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.mic.ink/about/</loc>
     <lastmod>2020-06-08T16:10:47+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -11,25 +60,6 @@
   <url>
     <loc>http://blog.mic.ink/about/test/</loc>
     <lastmod>2020-06-08T16:10:47+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.mic.ink/</loc>
-    <lastmod>2020-06-08T16:10:47+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.mic.ink/categories/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.mic.ink/tags/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
