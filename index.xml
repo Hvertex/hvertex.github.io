@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>巷子-影子</title>
+    <link>http://blog.mic.ink/</link>
+    <description>Recent content on 巷子-影子</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 08 Jun 2020 16:10:47 +0800</lastBuildDate>
+    
+	<atom:link href="http://blog.mic.ink/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>EMACS(一)</title>
+      <link>http://blog.mic.ink/about/test/</link>
+      <pubDate>Mon, 08 Jun 2020 16:10:47 +0800</pubDate>
+      
+      <guid>http://blog.mic.ink/about/test/</guid>
+      <description>Emacs All posts in here will have the category set to emacs. TODOWriting Hugo blog in Org First heading within the post This post will be exported as content/posts/writing-hugo-blog-in-org-subtree-export.md. Its title will be &amp;ldquo;Writing Hugo blog in Org&amp;rdquo;. It will have hugo and org tags and emacs as category. The menu item weight and post weight are auto-calculated. The menu item identifier is auto-set. The lastmod property in the front-matter</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://blog.mic.ink/sitemap.xml
