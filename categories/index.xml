@@ -6,10 +6,19 @@
     <description>Recent content in Categories on 巷子-影子</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 09 Jun 2020 20:19:01 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2020 17:09:00 +0800</lastBuildDate>
     
 	<atom:link href="http://blog.mic.ink/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>linux</title>
+      <link>http://blog.mic.ink/categories/linux/</link>
+      <pubDate>Tue, 01 Sep 2020 17:09:00 +0800</pubDate>
+      
+      <guid>http://blog.mic.ink/categories/linux/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>emacs</title>

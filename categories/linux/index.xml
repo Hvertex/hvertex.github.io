@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on 巷子-影子</title>
-    <link>http://blog.mic.ink/post/</link>
-    <description>Recent content in Posts on 巷子-影子</description>
+    <title>linux on 巷子-影子</title>
+    <link>http://blog.mic.ink/categories/linux/</link>
+    <description>Recent content in linux on 巷子-影子</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 01 Sep 2020 17:09:00 +0800</lastBuildDate>
     
-	<atom:link href="http://blog.mic.ink/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://blog.mic.ink/categories/linux/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>http://blog.mic.ink/post/ubuntu-install-ms-fonts/</guid>
       <description>简单记录下安装 Linux 后希望将 windows 字体安装如何实现 安装 ttf-mscorefonts-installer 1 2 3 sudo apt update sudo apt install ttf-mscorefonts-installer // 提示同意用户协议 sudo fc-cache -f -v //更新字体缓存 创建/usr/share/fo</description>
-    </item>
-    
-    <item>
-      <title>doom emacs (1)</title>
-      <link>http://blog.mic.ink/post/doom-emacs-1/</link>
-      <pubDate>Tue, 09 Jun 2020 20:19:01 +0800</pubDate>
-      
-      <guid>http://blog.mic.ink/post/doom-emacs-1/</guid>
-      <description>doom eamcs 是一个 Emacs 的配置框架，启动速度非常高效。按键使用了*spacemacs*风格。 准备使用它，首先安装它并基本配置它 安装 1 2 git clone --depth 1 https://github.com/hlissner/doom-emacs ~/.emacs.d ~/.emacs.d/bin/doom install doom</description>
     </item>
     
   </channel>

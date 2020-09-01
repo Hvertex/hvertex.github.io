@@ -2,8 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://blog.mic.ink/post/ubuntu-install-ms-fonts/</loc>
+    <lastmod>2020-09-01T17:25:09+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.mic.ink/categories/</loc>
-    <lastmod>2020-06-09T20:19:01+08:00</lastmod>
+    <lastmod>2020-09-01T17:25:09+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.mic.ink/tags/linux/</loc>
+    <lastmod>2020-09-01T17:25:09+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.mic.ink/categories/linux/</loc>
+    <lastmod>2020-09-01T17:25:09+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.mic.ink/post/</loc>
+    <lastmod>2020-09-01T17:25:09+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.mic.ink/tags/</loc>
+    <lastmod>2020-09-01T17:25:09+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.mic.ink/</loc>
+    <lastmod>2020-09-01T17:25:09+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -24,27 +66,6 @@
   
   <url>
     <loc>http://blog.mic.ink/categories/emacs/</loc>
-    <lastmod>2020-06-09T20:19:01+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.mic.ink/post/</loc>
-    <lastmod>2020-06-09T20:19:01+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.mic.ink/tags/</loc>
-    <lastmod>2020-06-09T20:19:01+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.mic.ink/</loc>
     <lastmod>2020-06-09T20:19:01+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
